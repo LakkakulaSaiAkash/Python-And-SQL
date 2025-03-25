@@ -1,0 +1,22 @@
+{
+    "coffee": {
+      "region": [
+        {"id": 1, "name": "Latin America"},
+        {"id": 2, "name": "Africa"}
+      ],
+      "country": {
+        "id": 101,
+        "company": "Coffee Co."
+      }
+    },
+    "brewing": {
+      "region": [
+        {"id": 3, "name": "Europe"},
+        {"id": 4, "name": "Asia"}
+      ],
+      "country": {
+        "id": 102,
+        "company": "Brewing Co."
+      }
+    }
+  }
