@@ -1,0 +1,4 @@
+id,name,orders
+1,John Doe,"[{""order_id"": 101, ""amount"": 50.5}, {""order_id"": 102, ""amount"": 75.0}]"
+2,Jane Smith,"[{""order_id"": 103, ""amount"": 20.0}]"
+3,Bob Brown,"[{""order_id"": 104, ""amount"": 100.0}, {""order_id"": 105, ""amount"": 200.0}, {""order_id"": 106, ""amount"": 300.0}]"
